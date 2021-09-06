@@ -4,7 +4,7 @@
 
 ## 前言
 
-【本fork仓库提供在线阅读功能！前往 https://entropyriser.github.io/index-X/ 阅读哦哦噢】
+【本fork仓库提供[在线阅读](https://entropyriser.github.io/index-X/)功能！前往 https://entropyriser.github.io/index-X/ 阅读哦————Entropyriser】
 
 大家好，我是**知一一**。
 
